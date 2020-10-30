@@ -1,4 +1,4 @@
-const Outreach =  require("../models/Outreach")
+const Outreach = require("../models/outreach.js")
 const User = require("../models/auth");
 const bcrypt = require('bcrypt');
 const jwt = require('jsonwebtoken');
